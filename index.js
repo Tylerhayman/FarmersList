@@ -1,6 +1,9 @@
 // Import Classes Here
 
-
+import Product from "./classes/Product"
+import Customer from "./classes/Customer"
+import Cart from "./classes/Cart"
+import Auth from "./classes/Auth" 
 
 
 
